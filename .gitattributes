@@ -1,1 +1,3 @@
-* text=auto
+[submodule "libs/hbb_common"]
+	path = libs/hbb_common
+	url = https://github.com/vipsg661218/hbb_common
